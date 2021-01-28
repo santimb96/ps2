@@ -5,12 +5,10 @@ public class Ps2 {
     private Integer year;
     private String platform;
 
-    public Ps2(){
-    }
     public Ps2(String name, Integer year, String platform) {
-        this.name = name;
-        this.year = year;
-        this.platform = platform;
+        setName(name);
+        setYear(year);
+        setPlatform(platform);
     }
 
     public String getName() {

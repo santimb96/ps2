@@ -1,9 +1,6 @@
-package org.ps2;
-import java.util.Arrays;
+/*package org.ps2;
 import java.util.logging.Logger;
-
-import org.apache.commons.lang3.StringUtils;
-import org.junit.platform.commons.logging.LoggerFactory;
+import org.slf4j.LoggerFactory;
 
 
 public class Main {
@@ -20,4 +17,4 @@ public class Main {
         ps2Collection.initPs2();
         System.out.println(ps2Collection.getPs2List());
     }
-}
+}*/
